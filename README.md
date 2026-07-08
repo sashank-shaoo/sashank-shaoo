@@ -126,18 +126,36 @@ Node.js + Express.js
 
 ---
 
-## 🏆 Achievements
+<h1 align="center">Achivements 🏆</h1>
 
-<p align="center">
+## Certificates
 
-<img src="https://github-profile-trophy.vercel.app/?username=sashank-shaoo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+<table align="center">
+<tr>
+<td>
+<img src="BADGE_IMAGE" width="120">
+<br>
+<b>Mern Certificate</b>
+</td>
+</tr>
+</table>
 
-</p>
+## Badges
 
----
+<table align="center">
+<tr>
+<td align="center">
+<a href="YOUR_CREDLY_LINK">
+<img src="BADGE_IMAGE" width="120"><br>
+<b>AWS Cloud 101</b>
+</a>
+</td>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sashank-shaoo&style=for-the-badge"/>
-
-</p>
+<td align="center">
+<a href="YOUR_CREDLY_LINK">
+<img src="BADGE_IMAGE" width="120"><br>
+<b>AWS S3 Foundations</b>
+</a>
+</td>
+</tr>   
+</table>
