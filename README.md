@@ -130,7 +130,7 @@ Node.js + Express.js
 
 ## Certificates
 
-<table align="center">
+<table>
 <tr>
 <td>
 <img src="BADGE_IMAGE" width="120">
@@ -142,7 +142,7 @@ Node.js + Express.js
 
 ## Badges
 
-<table align="center">
+<table>
 <tr>
 <td align="center">
 <a href="YOUR_CREDLY_LINK">
