@@ -155,7 +155,7 @@ Node.js + Express.js
 
 <td align="center">
 <a href="https://www.credly.com/badges/a6ecd12e-dca6-4749-98ac-e4372cdfa4e7/linked_in?t=tg20mt">
-<img src="./Aws-Generative.png" width="120"><br>
+<img src="./Aws-Generative_Ai.png" width="120"><br>
 <b>Generative Ai</b>
 </a>
 </td>
