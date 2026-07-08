@@ -133,7 +133,7 @@ Node.js + Express.js
 <table>
 <tr>
 <td>
-<img src="BADGE_IMAGE" width="120">
+<img src="certificate-delta-60-681c81e906d252012a058bbf.pdf" width="120">
 <br>
 <b>Mern Certificate</b>
 </td>
