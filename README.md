@@ -147,14 +147,14 @@ Node.js + Express.js
 <table>
 <tr>
 <td align="center">
-<a href="[YOUR_CREDLY_LINK](https://www.credly.com/badges/a18eca58-c299-47b5-9fc6-dad58b0ed04b/linked_in?t=thmsli)">
+<a href="https://www.credly.com/badges/a18eca58-c299-47b5-9fc6-dad58b0ed04b/linked_in?t=thmsli">
 <img src="BADGE_IMAGE" width="120"><br>
 <b>AWS Cloud 101</b>
 </a>
 </td>
 
 <td align="center">
-<a href="[YOUR_CREDLY_LINK](https://www.credly.com/badges/a6ecd12e-dca6-4749-98ac-e4372cdfa4e7/linked_in?t=tg20mt)">
+<a href="https://www.credly.com/badges/a6ecd12e-dca6-4749-98ac-e4372cdfa4e7/linked_in?t=tg20mt">
 <img src="BADGE_IMAGE" width="120"><br>
 <b>AWS S3 Foundations</b>
 </a>
