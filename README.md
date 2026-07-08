@@ -134,7 +134,7 @@ Node.js + Express.js
 <tr>
 <td>
 <a href="./certificate-delta-60-681c81e906d252012a058bbf.pdf">
-<img src="./mern-certificate.png" width="220">
+<img src="./Mern-certificate.png" width="220">
 <br>
 <b>MERN Internship Certificate</b>
 </a>
