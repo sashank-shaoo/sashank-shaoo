@@ -57,7 +57,7 @@ Node.js + Express.js
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://port-folio-one-blond.vercel.app/">
-<img src="https://img.shields.io/badge/PortFolio-8A2BE2"/>
+<img src="https://img.shields.io/badge/PortFolio-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
